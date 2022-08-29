@@ -1,0 +1,18 @@
+body{
+    background-color: skyblue;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 45%;
+}
+
+p{
+    font-family: arial;
+    font-size: 20;
+    border-style: outset;
+    border-color: blue;
+    border-width: 5px;
+}

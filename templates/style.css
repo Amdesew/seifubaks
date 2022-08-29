@@ -1,0 +1,25 @@
+body{
+    background-color:  skyBlue;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+}
+
+h3{
+    background-color: CadetBlue;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+button{
+    display: block;
+    margin-right: auto;
+    color: black;
+    background-color: skyblue;
+    border-radius: 100px
+}

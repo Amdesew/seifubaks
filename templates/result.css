@@ -1,0 +1,26 @@
+body{
+    background-color: skyblue;
+}
+
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+input{
+    border-radius: 10px;
+    height: 25px;
+}
+
+button{
+    border-radius: 30px;
+    height: 30px;
+    width: 15px;
+    background-color: beige;
+}
+
+h3{
+    font-family: arial;
+}
